@@ -6,5 +6,6 @@ import TheWelcome from '../components/TheWelcome.vue'
   <main>
     <TheWelcome />
     <div>111</div>
+    <div>222</div>
   </main>
 </template>
