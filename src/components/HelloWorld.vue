@@ -2,6 +2,7 @@
 defineProps<{
   msg: string
 }>()
+console.log('hello', 'world', 'dev')
 </script>
 
 <template>
